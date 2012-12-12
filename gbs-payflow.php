@@ -1,9 +1,9 @@
 <?php
 /*
-Plugin Name: Group Buying Payment Processor - Paypal Payflow
+Plugin Name: Group Buying Payment Processor - Paypal Payflow/PayPal Payments Advanced
 Version: .1
 Plugin URI: http://sproutventure.com/wordpress/group-buying
-Description: Paypal Payflow Payments Add-on.
+Description: Paypal Payflow Payments Add-on. Combine with Paypal standard for offsite Paypal purchasing.
 Author: Sprout Venture
 Author URI: http://sproutventure.com/wordpress
 Plugin Author: Dan Cameron
